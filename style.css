@@ -1,0 +1,29 @@
+body{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+.siz{
+    height: 190px;
+    border-radius: 45%;
+}
+.le{
+float: left;
+}
+.ri{
+float: right;
+}
+.lef{
+    float: left;
+    margin-top: 150px;
+    font-size: 20px; width: 8%;
+    }
+    .rig{
+    float: right;
+    margin-top: 150px;
+    font-size: 20px; width: 8%;
+    }
+    canvas{
+        margin-top: 70px;
+        border: 5px white ridge;
+        box-shadow: 5px 5px 5px gray;
+    }
